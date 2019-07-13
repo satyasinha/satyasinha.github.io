@@ -1,6 +1,6 @@
 Notifications are everywhere, from social media to mobile apps and the plethora of messaging apps. We are slaves to them as the Dilbert comic on June 19, 2016 insinuates:
 
-![dilbert](posts/2016-11-27/dilbert.jpg)
+![dilbert](posts/2017-01-07/dilbert.jpg)
 
 It wasn’t always like this, there was a time when the only sort of notification was a new email, phone call or a tap on a shoulder.
 
